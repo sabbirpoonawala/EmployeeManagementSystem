@@ -4,5 +4,12 @@ package com.yash.controller;
  */
 
 public class SampleController {
+	
+	/*
+	 * method written by Sabbir
+	 */
+	public void handleRequest() {
+		
+	}
 
 }
