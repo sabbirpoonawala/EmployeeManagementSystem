@@ -43,4 +43,6 @@ public class SampleController {
 	public void z(){}
 	
 	public void m(){}
+	
+	public void n(){}
 }
