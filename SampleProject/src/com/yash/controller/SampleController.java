@@ -37,4 +37,6 @@ public class SampleController {
 	}
 	
 	public void x(){}
+	
+	public void y(){}
 }
