@@ -41,4 +41,6 @@ public class SampleController {
 	public void y(){}
 	
 	public void z(){}
+	
+	public void m(){}
 }
