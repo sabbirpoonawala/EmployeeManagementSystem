@@ -8,8 +8,10 @@ public class SampleController {
 	/*
 	 * method written by Sabbir
 	 */
+	 
+	 //modified method
 	public void handleRequest() {
-		
+		System.out.println("Has been modified");
 	}
 
 }
