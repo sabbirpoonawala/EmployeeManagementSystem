@@ -27,6 +27,10 @@ public class SampleController {
 	
 	}
 	
+	public void mehtod3(){
+	
+	}
+	
 	public void method2(){
 	
 	}
