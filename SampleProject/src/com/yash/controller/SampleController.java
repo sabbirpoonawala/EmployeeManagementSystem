@@ -21,4 +21,9 @@ public class SampleController {
 	}
 
 	//new modifications
+	
+	//new method
+	public void method1(){
+	
+	}
 }
