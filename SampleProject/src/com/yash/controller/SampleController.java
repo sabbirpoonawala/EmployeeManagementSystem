@@ -26,4 +26,8 @@ public class SampleController {
 	public void method1(){
 	
 	}
+	
+	public void method2(){
+	
+	}
 }
