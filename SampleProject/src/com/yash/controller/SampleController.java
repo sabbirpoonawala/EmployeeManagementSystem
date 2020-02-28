@@ -12,6 +12,13 @@ public class SampleController {
 	 //modified method
 	public void handleRequest() {
 		System.out.println("Has been modified");
+
+	}
+	
+	//new method added
+	public void newMethod(){
+	System.out.println("New method added");
 	}
 
+	//new modifications
 }
