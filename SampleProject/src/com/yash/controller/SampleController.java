@@ -35,4 +35,6 @@ public class SampleController {
 	public void method2(){
 	
 	}
+	
+	public void x(){}
 }
