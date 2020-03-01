@@ -45,4 +45,9 @@ public class SampleController {
 	public void m(){}
 	
 	public void n(){}
+	
+	public void p() {}
+	
+	public void s() {}
+	
 }
