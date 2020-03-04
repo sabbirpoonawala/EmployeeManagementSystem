@@ -49,4 +49,5 @@ public class SampleController {
 	public void k(){}
 
 
+	public void i(){}
 }
